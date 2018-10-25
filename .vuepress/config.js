@@ -5,12 +5,13 @@ module.exports = {
         lastUpdated: true,
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Page', link: '/homepage' },
+            { text: 'Let Code', link: '/let-code' },
             { text: 'Skooldio', link: 'https://skooldio.com' },
         ],
         sidebar: [
             '/',
-            '/homepage'
+            '/let-code',
+            '/docs/code-a'
         ]
     },
     markdown: {
